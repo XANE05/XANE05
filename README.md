@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/XANE05/XANE05/blob/main/Xavy%20Cyrene%20Alavazo.gif)]
+![MasterHead](https://github.com/XANE05/XANE05/blob/main/Xavy%20Cyrene%20Alavazo.gif)
 <h1 align="center">Hi 👋, I'm Xavy Cyrene J. Alavazo</h1>
 <h3 align="center">An aspiring Programmer and Cyber Security Specialist from the Philippines. I'm a Technology enthusiast and I take great joy in learning new things and innovating them.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
